@@ -1,6 +1,6 @@
-WebGL
+WindowsStandalone
 PlayerPath?
-C:/Users/murph/Desktop/Final Games/Chicken Dodger
+C:/Users/murph/Desktop/Game/Game.exe
 SceneListBegin?
 Assets/Scenes/SampleScene.unity
 SceneListEnd?
